@@ -100,4 +100,3 @@ This project runs within the university-provided OpenGL framework.
 - Collision detection uses AABB for paddles and circle math for the ball
 - Connectivity validation uses BFS on the block grid graph
 - No external font libraries — all text is hand-drawn using line segments
-# Arcade-Machine-Pong-OpenGL-C-
